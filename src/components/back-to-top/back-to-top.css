@@ -1,0 +1,20 @@
+.jump-up {
+  position: fixed;
+  height: 50px;
+  width: 50px;
+
+  border: none;
+  border-radius: 1rem;
+  cursor: pointer;
+  
+
+  bottom: 20px;
+  right: 20px;
+  z-index: 9;
+}
+
+.arrow-up {
+  color: black;
+  font-weight: bold;
+  font-size: 1.25rem;
+}

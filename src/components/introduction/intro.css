@@ -1,0 +1,52 @@
+/* .real-btn {
+  border: 1px solid;
+  border-radius: 0.375rem;
+  background-color: #934ee2;
+  box-shadow: 0 10px #622c86;
+  font-size: 1.3rem;
+  transition: 100ms;
+  padding: 0.5rem 0.75rem;
+  margin: 0 0.375rem;
+}
+
+.btn-pressed {
+  transform: translate(0, 10px);
+  box-shadow: none;
+} */
+
+.resume-modal {
+  z-index: 40;
+  transition: all 0.25s linear;
+}
+
+.close-btn {
+  transition: all 0.25s linear;
+}
+
+.resume {
+  transition: all 0.25s linear;
+}
+
+.intro-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  color: black;
+  margin: 0.5rem 0.25rem;
+}
+
+.intro-btn:hover {
+  color: white;
+}
+
+.intro-btn > img {
+  width: 25px;
+  height: 25px;
+
+  margin-right: 0.25rem;
+}
+
+/* .intro-btn p {
+  color: black;
+} */

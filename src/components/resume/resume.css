@@ -1,0 +1,29 @@
+.resume-container {
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
+}
+.resume-container a {
+  color: palevioletred;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.resume-section {
+  margin: 0.5rem 0 0 0;
+}
+
+.resume-section-heading {
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+.resume-section-content {
+  margin: 0 0 0 0.75rem;
+}
+
+.resume-project-desc {
+  list-style-type: disc;
+}
+
+.resume-project-desc > li {
+  margin: 0 0 0 1.75rem;
+}
